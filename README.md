@@ -1,0 +1,2 @@
+# Audiobooks-Novel-App
+Find and listen to over 14.000 classic audiobooks. Audio book can be streamed over the internet any time anywhere. Genres books available for search in our application: romance, poem, mystery, sci-fi, children and more! This app is Chromecast ready. You can find your favourite classics books here. You can find the most popular books and the new. Every audiobook is on public domain which means that you can listen to it without spending any money.
